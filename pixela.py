@@ -3,8 +3,8 @@ from datetime import datetime
 
 # https://pixe.la/v1/users/josephc/graphs/graph1.html
 
-USERNAME = 'josephc'
-TOKEN = 'a76ujytf49ijty6uk'
+USERNAME = USERNAME
+TOKEN = TOKEN
 pixela_url = 'https://pixe.la/v1/users'
 headers = {
     'X-USER-TOKEN': TOKEN  #use password
